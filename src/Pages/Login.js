@@ -51,7 +51,7 @@ const Login = (props) => {
                     draggable="false"
                   />
                 </div>
-                <h2 class="fw-bold mt-2">Log in to Flirtzy</h2>
+                <h2 class="fw-bold mt-2">Log in to Sweetdreamers</h2>
                 {/* <h6 className="text-muted">
                   Enter your email and password to access admin panel.
                 </h6> */}

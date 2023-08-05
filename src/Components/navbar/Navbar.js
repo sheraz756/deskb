@@ -180,7 +180,7 @@ const Navbar = () => {
                           <span style={{ marginRight: "5px" }}>
                             <img src={logo} alt="" width={35} height={35} />
                           </span>
-                          <span>Flirtzy</span>
+                          <span>Sweetdreamers</span>
                         </div>
                       </a>
                     </li>
